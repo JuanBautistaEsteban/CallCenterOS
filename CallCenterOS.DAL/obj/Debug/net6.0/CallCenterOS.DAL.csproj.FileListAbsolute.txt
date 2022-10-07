@@ -1,0 +1,12 @@
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\bin\Debug\net6.0\CallCenterOS.DAL.deps.json
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\bin\Debug\net6.0\CallCenterOS.DAL.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\bin\Debug\net6.0\CallCenterOS.DAL.pdb
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.csproj.AssemblyReference.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.AssemblyInfoInputs.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.AssemblyInfo.cs
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\refint\CallCenterOS.DAL.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\CallCenterOS.DAL.pdb
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.DAL\obj\Debug\net6.0\ref\CallCenterOS.DAL.dll

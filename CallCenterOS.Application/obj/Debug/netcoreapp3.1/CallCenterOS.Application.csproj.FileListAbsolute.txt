@@ -1,0 +1,5 @@
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Application\obj\Debug\netcoreapp3.1\CallCenterOS.Application.csproj.AssemblyReference.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Application\obj\Debug\netcoreapp3.1\CallCenterOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Application\obj\Debug\netcoreapp3.1\CallCenterOS.Application.AssemblyInfoInputs.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Application\obj\Debug\netcoreapp3.1\CallCenterOS.Application.AssemblyInfo.cs
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Application\obj\Debug\netcoreapp3.1\CallCenterOS.Application.csproj.CoreCompileInputs.cache
