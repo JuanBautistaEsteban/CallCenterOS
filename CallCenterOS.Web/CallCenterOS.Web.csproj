@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6F6CE47E-195A-4B49-B88B-7FDE12C4C2AF}</ProjectGuid>
+    <ProjectGuid>{8390517D-AD43-455C-A8AF-014CB593A3D2}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -396,16 +396,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CallCenterOS.Application\CallCenterOS.Application.csproj">
-      <Project>{fe3b2df5-4950-46f8-862f-a58629201db5}</Project>
+      <Project>{0b197198-f00d-418c-9014-47a82429dae5}</Project>
       <Name>CallCenterOS.Application</Name>
     </ProjectReference>
     <ProjectReference Include="..\CallCenterOS.CORE\CallCenterOS.CORE.csproj">
-      <Project>{2c161840-b85c-4513-a34b-17cf6b64e0e3}</Project>
+      <Project>{6198ca5a-4318-4ec3-93e0-1cb887a8c6fc}</Project>
       <Name>CallCenterOS.CORE</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CallCenterOS.DAL\CallCenterOS.DAL.csproj">
-      <Project>{3880b9a5-1409-4b03-a3db-4cbfa3953666}</Project>
-      <Name>CallCenterOS.DAL</Name>
+    <ProjectReference Include="..\CallCenterOS.DAT\CallCenterOS.DAT.csproj">
+      <Project>{12e00431-aea1-4d5c-9fd1-d7458c8a2382}</Project>
+      <Name>CallCenterOS.DAT</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
@@ -421,7 +421,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>50590</DevelopmentServerPort>
+          <DevelopmentServerPort>50035</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>https://localhost:44303/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

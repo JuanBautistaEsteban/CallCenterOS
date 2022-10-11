@@ -53,6 +53,9 @@ C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\roslyn\VBCSCom
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Antlr3.Runtime.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\AspNet.ScriptManager.bootstrap.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Application.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAT.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\EntityFramework.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
@@ -77,6 +80,9 @@ C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Newtonsoft.Jso
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Owin.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\System.Web.Optimization.dll
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\WebGrease.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.Application.pdb
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.CORE.pdb
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\CallCenterOS.DAT.pdb
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\System.Web.Optimization.xml
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Newtonsoft.Json.xml
 C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.Web\bin\Antlr3.Runtime.pdb

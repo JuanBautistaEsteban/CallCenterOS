@@ -27,9 +27,6 @@ namespace CallCenterOS.Web.Models
         }
     }
 
-    /// <summary>
-    /// Contexto de datos
-    /// </summary>
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()

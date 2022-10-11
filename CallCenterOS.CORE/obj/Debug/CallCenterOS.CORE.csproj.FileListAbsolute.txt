@@ -1,0 +1,6 @@
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\bin\Debug\CallCenterOS.CORE.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\bin\Debug\CallCenterOS.CORE.pdb
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.csproj.AssemblyReference.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.dll
+C:\Users\jbautista\source\repos\CallCenterOS\CallCenterOS.CORE\obj\Debug\CallCenterOS.CORE.pdb
